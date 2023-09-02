@@ -5,8 +5,10 @@ Refer to the note in order to choose appropriate drivers for DHT11 and servo.<br
 
 BuiltIn led for NodeMCU ESP32S is at port 2. <br><br>
 
-NodeMCU-ESP32S IoT Kit - Simplifying IoT with V-ONE (EOL)<br>
-https://my.cytron.io/p-nodemcu-32s-iot-simplifying-iot-with-vone<br><br>
+NodeMCU-ESP32S IoT Kit - Simplifying IoT with V-ONE <b><u>(EOL)</u></b><br>
+https://my.cytron.io/p-nodemcu-32s-iot-simplifying-iot-with-vone<br>
+Link for NodeMCU ESP32S IoT Kit Manual Guide:<br>
+https://docs.google.com/document/d/131m2Ew5lvu-terUzlFvW9cYAniM9rVBnuDIKVH97uLs/edit#heading=h.5gz3tdkpleg<br><br>
 
 Maker Feather S3 IoT Kit - Simplifying IoT with V-ONE<br>
 https://my.cytron.io/p-maker-feather-s-3-iot-kit-simplifying-iot-with-v-one<br>
