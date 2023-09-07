@@ -1,6 +1,15 @@
 Surf https://wokwi.com/ and log in with your gmail acc.
 
-https://wokwi.com/projects/276825819240727048 by urish
+Arduino Uno and servo 
+https://wokwi.com/projects/375185530162603009
+
+Arduino Calculator by urish
+https://wokwi.com/projects/276825819240727048 
+
+Arduino Uno Serial Read with Variable Sensor
+https://wokwi.com/projects/375185476112693249
+
+
 
 <b>What is WOKWI?</b>
 
