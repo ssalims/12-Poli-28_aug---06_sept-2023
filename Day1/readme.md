@@ -1,6 +1,6 @@
 Surf https://wokwi.com/ and log in with your gmail acc.
 
-What is WOKWI?
+<b>What is WOKWI?</b>
 
 Wokwi is an online platform and simulation tool designed for electronics and embedded systems enthusiasts, hobbyists, and developers. 
 It provides a virtual environment where you can design, simulate, and experiment with various hardware components, microcontrollers, and circuits without the need for physical hardware. 
