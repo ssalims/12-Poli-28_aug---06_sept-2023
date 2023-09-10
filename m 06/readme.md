@@ -1,4 +1,4 @@
-<b>Node-RED Dashboard + NodeMCU ESP32-S ->Serial Communication Exercise</b><br><br>
+<b>Node-RED Dashboard + NodeMCU ESP32-S ->Serial Communication Exercise: Switch ON & OFF Led + Control Servo Motor</b><br><br>
 
 <b>Objectives:<br>
 - Communication thru serial communication port i.e., via data cable connected from ESP32 to laptop/pc usb port,<br>
