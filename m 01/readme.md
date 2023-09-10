@@ -11,9 +11,11 @@ iii. Arduino Uno Serial Read with Variable Sensor https://wokwi.com/projects/375
 
 Wokwi is an online platform and simulation tool designed for electronics and embedded systems enthusiasts, hobbyists, and developers. It provides a virtual environment where you can design, simulate, and experiment with various hardware components, microcontrollers, and circuits without the need for physical hardware. Here's an explanation of Wokwi's key features and what it offers:
 
-<b>Virtual Hardware Simulation:</b><br> Wokwi allows you to create and simulate electronic circuits virtually. You can add various components such as microcontrollers (like Arduino and ESP8266), sensors, LEDs, motors, and more to your circuit design.
-Interactive Web-Based Interface: Wokwi provides a user-friendly web-based interface that enables you to design and interact with your circuits in real-time. You can drag and drop components onto a canvas, wire them together, and configure their properties with a few clicks.
-Code Integration:</b><br> You can write and upload code for microcontrollers directly within Wokwi. It supports multiple programming languages, including C/C++, Python, and JavaScript. You can write code, compile, and upload it to the virtual hardware to see how your program behaves.
+<br><b>Virtual Hardware Simulation:</b><br> Wokwi allows you to create and simulate electronic circuits virtually. You can add various components such as microcontrollers (like Arduino and ESP8266), sensors, LEDs, motors, and more to your circuit design.
+
+<br><b>Interactive Web-Based Interface:</b><br> Wokwi provides a user-friendly web-based interface that enables you to design and interact with your circuits in real-time. You can drag and drop components onto a canvas, wire them together, and configure their properties with a few clicks.
+
+<br><b>Code Integration:</b><br> You can write and upload code for microcontrollers directly within Wokwi. It supports multiple programming languages, including C/C++, Python, and JavaScript. You can write code, compile, and upload it to the virtual hardware to see how your program behaves.
 
 <br><b>Real-Time Simulation:</b><br> Wokwi offers real-time simulation, allowing you to see the behavior of your circuit and code execution as you make changes. This helps you debug and test your projects before building them with physical components.
 
