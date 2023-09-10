@@ -1,13 +1,15 @@
 <b>Node-RED Dashboard + NodeMCU ESP32-S ->Serial Communication Exercise</b><br><br>
 
 <b>Objectives:<br>
--sdsds
-
-Control LED & Servo 
-Node-RED: Full Broker exercise. 
-
-Watch out with the DHT11 drivers.
-You may refer the detail at the store that you have purchased it.
+- Communication thru serial communication port i.e., via data cable connected from ESP32 to laptop/pc usb port,<br>
+- Displaying data from ESP32 to Node-RED dashboard,<br>
+- Sending data from Node-RED dashboard to ESP32 e.g. switch on & off led,<br>
+- Full MQTT broker exercise.</b><br><br>
 
 
-**You may Node-RED is a cross platform / multyplatform that works on various OS or devices.
+
+Watch out with the DHT11 drivers. <br>
+You may refer the detail to the store that you have purchased DHT11 or any sensors used.<br>
+
+ 
+**Node-RED is a cross platform / multi platform that works on various OS or devices -  (***the notes indicated RasPI).
