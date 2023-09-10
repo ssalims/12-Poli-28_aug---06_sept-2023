@@ -19,9 +19,9 @@ Wokwi is an online platform and simulation tool designed for electronics and emb
 
 <br><b>Real-Time Simulation:</b><br> Wokwi offers real-time simulation, allowing you to see the behavior of your circuit and code execution as you make changes. This helps you debug and test your projects before building them with physical components.
 
-<br><b>Community and Shared Projects: Wokwi has a community aspect where users can share their circuit designs and projects with others. You can access a library of shared circuits and learn from or collaborate with the community.
+<br><b>Community and Shared Projects:</b><br> Wokwi has a community aspect where users can share their circuit designs and projects with others. You can access a library of shared circuits and learn from or collaborate with the community.
 
-Learning and Education:</b><br> Wokwi is a valuable tool for learning electronics, programming, and embedded systems. It's particularly useful for educational purposes, enabling students and beginners to experiment with hardware and code in a safe and interactive environment.
+<br><b>Learning and Education:</b><br> Wokwi is a valuable tool for learning electronics, programming, and embedded systems. It's particularly useful for educational purposes, enabling students and beginners to experiment with hardware and code in a safe and interactive environment.
 
 <br><b>Integration with Popular Platforms:</b><br> Wokwi integrates with well-known microcontroller platforms like Arduino, ESP8266, and Raspberry Pi. You can select your preferred platform, add components, and write code for it, replicating real-world projects virtually.
 
