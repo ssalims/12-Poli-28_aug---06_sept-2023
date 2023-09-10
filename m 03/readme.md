@@ -1,5 +1,5 @@
-NodeMCU ESP-32S Advanced Web Server 
-NodeMCU ESP-32S Advanced Web Server with DHT11 & other sensors
-Install Node-RED
-Inject + Debug, GMail
-Dashboard: Slider + Gauge + Chart
+NodeMCU ESP-32S Advanced Web Server <br>
+NodeMCU ESP-32S Advanced Web Server with DHT11 & other sensors<br>
+Install Node-RED<br>
+Inject + Debug, GMail<br>
+Dashboard: Slider + Gauge + Chart<br>
