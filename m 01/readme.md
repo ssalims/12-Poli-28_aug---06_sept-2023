@@ -1,13 +1,13 @@
-Objective: Familiarization with basic / simple Arduino sketch and wiring connection using online simulation tool for Arduino. <br><br>
-Surf https://wokwi.com/ and log in with your gmail acc.
+<b>Objective: Familiarization with basic / simple Arduino sketch and wiring connection using online simulation tool for Arduino. </b><br><br>
+Surf https://wokwi.com/ and log in with your gmail acc.<br><br>
 
-Working project created by Wokwi users: i. Arduino Uno and servo https://wokwi.com/projects/375185530162603009
+Working project created by Wokwi users: i. Arduino Uno and servo https://wokwi.com/projects/375185530162603009<br><br>
 
-ii. Arduino Calculator by urish https://wokwi.com/projects/276825819240727048
+ii. Arduino Calculator by urish https://wokwi.com/projects/276825819240727048<br><br>
 
-iii. Arduino Uno Serial Read with Variable Sensor https://wokwi.com/projects/375185476112693249
+iii. Arduino Uno Serial Read with Variable Sensor https://wokwi.com/projects/375185476112693249<br><br>
 
-What is WOKWI?
+<b>What is WOKWI?</b><br><br>
 
 Wokwi is an online platform and simulation tool designed for electronics and embedded systems enthusiasts, hobbyists, and developers. It provides a virtual environment where you can design, simulate, and experiment with various hardware components, microcontrollers, and circuits without the need for physical hardware. Here's an explanation of Wokwi's key features and what it offers:
 
