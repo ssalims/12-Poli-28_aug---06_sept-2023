@@ -28,5 +28,6 @@ Wokwi is an online platform and simulation tool designed for electronics and emb
 <br><b>No Physical Hardware Required:</b><br> Wokwi eliminates the need for physical hardware during the early stages of project development. This can save time and money by allowing you to validate your ideas and designs virtually before purchasing physical components.
 
 <br><b>Debugging and Testing:</b><br> You can use Wokwi to debug your code and test hardware interactions. This can be especially helpful for diagnosing issues in complex projects without the need for physical troubleshooting.
-Open Source and Extensible: Wokwi is open source, meaning that you can contribute to its development and extend its capabilities. It's built on open standards and encourages collaboration.
+
+<br><b>Open Source and Extensible:</b><br> Wokwi is open source, meaning that you can contribute to its development and extend its capabilities. It's built on open standards and encourages collaboration.<br><br>
 Wokwi is a valuable tool for electronics enthusiasts, students, educators, and anyone interested in tinkering with electronics and embedded systems. It provides a creative and interactive way to explore, design, and prototype electronic circuits and embedded software projects.
