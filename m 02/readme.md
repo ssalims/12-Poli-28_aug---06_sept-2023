@@ -1,20 +1,20 @@
-This exercises uses hardware purchased from Cytron Malaysia. 
-THe note is produced by Cytron experts.
+This exercises uses hardware purchased from Cytron Malaysia. <br>
+THe note is produced by Cytron experts.<br><br>
 
 
-Refer to the note in order to choose appropriate drivers for DHT11 and servo.
+Refer to the note in order to choose appropriate drivers for DHT11 and servo.<br><br>
 
 
-BuiltIn led for NodeMCU ESP32S is at port 2. 
+BuiltIn led for NodeMCU ESP32S is at port 2. <br><br>
 
 
-NodeMCU-ESP32S IoT Kit - Simplifying IoT with V-ONE (EOL)
-https://my.cytron.io/p-nodemcu-32s-iot-simplifying-iot-with-vone
-Link for NodeMCU ESP32S IoT Kit Manual Guide:
-https://docs.google.com/document/d/131m2Ew5lvu-terUzlFvW9cYAniM9rVBnuDIKVH97uLs/edit#heading=h.5gz3tdkpleg
+NodeMCU-ESP32S IoT Kit - Simplifying IoT with V-ONE (EOL)<br>
+https://my.cytron.io/p-nodemcu-32s-iot-simplifying-iot-with-vone<br>
+Link for NodeMCU ESP32S IoT Kit Manual Guide:<br>
+https://docs.google.com/document/d/131m2Ew5lvu-terUzlFvW9cYAniM9rVBnuDIKVH97uLs/edit#heading=h.5gz3tdkpleg<br><br>
 
 
-Maker Feather S3 IoT Kit - Simplifying IoT with V-ONE
-https://my.cytron.io/p-maker-feather-s-3-iot-kit-simplifying-iot-with-v-one
-Link for complete Maker Feather note:
-https://docs.google.com/document/d/1zZb61_tBBNEPne0dj8gbS31jCloHKhu49lah2wzjNbo/edit#heading=h.5gz3tdkpleg
+Maker Feather S3 IoT Kit - Simplifying IoT with V-ONE<br>
+https://my.cytron.io/p-maker-feather-s-3-iot-kit-simplifying-iot-with-v-one<br>
+Link for complete Maker Feather note:<br>
+https://docs.google.com/document/d/1zZb61_tBBNEPne0dj8gbS31jCloHKhu49lah2wzjNbo/edit#heading=h.5gz3tdkpleg<br><br>
