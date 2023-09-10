@@ -1,3 +1,4 @@
+Objective: Familiarization with basic / simple Arduino sketch and wiring connection using online simulation tool for Arduino. <br><br>
 Surf https://wokwi.com/ and log in with your gmail acc.
 
 Working project created by Wokwi users: i. Arduino Uno and servo https://wokwi.com/projects/375185530162603009
