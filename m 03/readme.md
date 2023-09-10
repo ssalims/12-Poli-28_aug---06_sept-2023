@@ -1,7 +1,9 @@
 <b>**Advanced Web Server & Node-RED</b><br><br>
 <b>Objectives:<br>
-- How to connect ESP32 to AP(2.4GHz only) & hotspot using **Advanced Web Server sketch.<br>
-- Connect DHT11 to ESP32 & view the ouput via web browsers.
+- How to connect ESP32 to AP(2.4GHz only) & hotspot using **Advanced Web Server sketch,
+- Connect DHT11 to ESP32 & view the ouput via web browsers,
+- Install and deploy Node-RED,
+- Deploy Node-RED dashboard.
 </b><br>
 
 <b>**File>Examples>WebServer>AdvancedWebServer - DO CONNECT ESP32 TO THE LAPTOP, OTHERWISE THIS EXAMPLE WILL NOT APPEAR.</b><br>
