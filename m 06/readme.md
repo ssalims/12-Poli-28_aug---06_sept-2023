@@ -4,7 +4,7 @@
 - Communication thru serial communication port i.e., via data cable connected from ESP32 to laptop/pc usb port,<br>
 - Displaying data from ESP32 to Node-RED dashboard,<br>
 - Sending data from Node-RED dashboard to ESP32 e.g. switch on & off led,<br>
-- Full MQTT broker exercise.</b><br><br>
+- Full MQTT broker case study: received value from sensor (DHT11, soil sensor) & send value to microcontroller (LED).</b><br><br>
 
 
 
