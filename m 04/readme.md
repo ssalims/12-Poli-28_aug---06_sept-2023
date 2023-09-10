@@ -1,2 +1,8 @@
-<br><br><br>Dashboard: More Slider + Gauge + Chart<br>
-Node-RED Dashboard + NodeMCU ESP-32S : Sending 1 Value (Temp) from DHT11 to Node-RED via Cable.<br>
+<b>Sending Important Data to Node-RED Dashboard from ESP32</b><br><br>
+
+<b>Objective:<br>
+- Use proper libraries,
+- Learn how to design dashboard,
+- Proper connection using COMM Port
+
+<b>
