@@ -1,4 +1,4 @@
-<b>Sending Important Data to Node-RED Dashboard from ESP32</b><br><br>
+<b>Sending Important Data to Node-RED Dashboard from ESP32 thru Serial COMM</b><br><br>
 
 <b>Objective:<br>
 - Use proper libraries,
