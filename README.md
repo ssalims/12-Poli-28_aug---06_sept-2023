@@ -1,5 +1,5 @@
 # 12-Poli-28_aug---06_sept-2023
-IoT &amp; Python training at PTSS Arau <br><br>
+IoT &amp; MicroPython training at PTSS Arau <br><br>
 
 m 01	<br>Familiarization of Arduino Programming using Wokwi<br><br>
 
