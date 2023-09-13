@@ -15,7 +15,7 @@ m 03	<br>NodeMCU ESP-32s Advanced Web Server<br>
 m 04	<br>Dashboard: More Slider + Gauge + Chart<br>
 		Node-RED Dashboard + NodeMCU ESP32-S : Sending 1 Value (Temp) from DHT11 to Node-RED via Cable<br><br>
  
-m 05	<br>Node-RED Dashboard + NodeMCU ESP32- : Sending 2 Values (Temp & Humid) from DHT11 to Node-RED via Cable<br>
+m 05	<br>Cont M 04: Node-RED Dashboard + NodeMCU ESP32- : Sending 2 Values (Temp & Humid) from DHT11 to Node-RED via Cable<br>
 		Install XAMPP<br>
 		Simple PHP-MySQL operation : https://www.simplilearn.com/tutorials/php-tutorial/php-with-sql<br>
 		Node-RED MQTT - Client-Broker<br><br>
