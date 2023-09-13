@@ -1,0 +1,170 @@
+[
+    {
+        "id": "ad52b471647cc8b0",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "ea211cc2f4383b30",
+        "type": "mysql",
+        "z": "ad52b471647cc8b0",
+        "mydb": "e2373d64.9 3b03",
+        "name": "",
+        "x": 620,
+        "y": 260,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b631eeb7cc5d2ce2",
+        "type": "debug",
+        "z": "ad52b471647cc8b0",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "x": 470,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "b11c6d392b9b0ffa",
+        "type": "function",
+        "z": "ad52b471647cc8b0",
+        "name": "",
+        "func": "// to receive data pass from node wired to this function \nvar sensorMoist= parseInt(msg.payload);\n// db table name= plot_1\nmsg.topic = \"INSERT INTO plot_1 ( reading) VALUES (?)\";\nmsg.payload = [sensorMoist];\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 420,
+        "y": 260,
+        "wires": [
+            [
+                "b631eeb7cc5d2ce2"
+            ]
+        ]
+    },
+    {
+        "id": "bae375218b034ed6",
+        "type": "ui_chart",
+        "z": "ad52b471647cc8b0",
+        "name": "",
+        "group": "7fb64bc4.bf6d94",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "label": "chart",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            " #98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "x": 610,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "fa6f9e11a5f05919",
+        "type": "serial in",
+        "z": "ad52b471647cc8b0",
+        "name": "",
+        "serial": "021a2d036ad7ea66",
+        "x": 190,
+        "y": 180,
+        "wires": [
+            [
+                "fc226e737731a9b2"
+            ]
+        ]
+    },
+    {
+        "id": "fc226e737731a9b2",
+        "type": "function",
+        "z": "ad52b471647cc8b0",
+        "name": "",
+        "func": "var output = msg.payload.split(\",\");\nvar read1 = parseInt(output[0]);\n//var read2 = parseInt(output[1]); \nvar msg = {payload : read1};\n//var msg2 = {payload : read2};\n\n\n\nreturn msg;\n//return msg2;\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 420,
+        "y": 180,
+        "wires": [
+            [
+                "bae375218b034ed6"
+            ]
+        ]
+    },
+    {
+        "id": "ab29fb81cc0a7f84",
+        "type": "debug",
+        "z": "ad52b471647cc8b0",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 430,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "7fb64bc4.bf6d94",
+        "type": "ui_group",
+        "name": "plot#1",
+        "tab": "d deacc80.f9ff2",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "021a2d036ad7ea66",
+        "type": "serial- port",
+        "serialport": "/dev/tty.usbmodem14201",
+        "serialbaud": "9600",
+        "databits": "8",
+        "parity": "none",
+        "stopbits ": "1",
+        "waitfor": "",
+        "dtr": "none",
+        "rts": "none",
+        "cts": "none",
+        "dsr": "none",
+        "newline": "\\n",
+        "bin": "false",
+        "out": "char",
+        " addchar": "",
+        "responsetimeout": "10000"
+    }
+]
