@@ -1,3 +1,3 @@
 <b>Objectives: <br>
-Installation of MicroPyton Firmware on ESP32.<br>
-Upload Python script into ESP32.<br></b>
+- Deployment of MQTT on Node-RED server,<br>
+- Sending information from ESP32 to Broker and display it at dashboard.<br></b>
