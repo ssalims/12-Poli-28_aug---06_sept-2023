@@ -28,11 +28,13 @@ m 07	<br>NodeMCU ESP32S + DHT11 + PHP + MySQL<br><br>
 
 m 08	<br>Node-RED Import and Display Information from MySQL<br>
  
-m 09	<br>MicroPython<br><br>
+m 09	<br>MQTT<br><br>
+ 
+m 10	<br>MicroPython<br><br>
 		<br>ESP32-cam<br>
 		ESP32-cam + Node-RED MQTT: https://www.youtube.com/watch?v=L_rqYK_QUCg<br><br>
- 
-m 10	<br>Google Teachable Machine<br><br>
+
+m 11	<br>Case Study<br><br>
 
 
 
